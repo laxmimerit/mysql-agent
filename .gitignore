@@ -218,3 +218,4 @@ __marimo__/
 *.db
 db
 *.sqlite3
+.claude

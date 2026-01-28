@@ -7,3 +7,5 @@ https://github.com/fracpete/employees-db-sqlite
 Langsmith for Agent Tracing
 https://smith.langchain.com/
 
+cltr + J
+pip install -r requirements.txt -U
